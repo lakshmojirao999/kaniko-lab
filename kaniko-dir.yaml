@@ -10,7 +10,7 @@ spec:
     image: gcr.io/kaniko-project/executor:debug
     args: ["--dockerfile=/workspace/Dockerfile",
             "--context=dir://workspace",
-            "--destination=vfarcic/devops-toolkit:1.0.0"]
+            "--destination=vfarcic/devops-lab:1.0.0"]
     volumeMounts:
       - name: kaniko-secret
         mountPath: /kaniko/.docker
