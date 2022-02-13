@@ -30,5 +30,5 @@ spec:
       title: Building container image
       image: gcr.io/kaniko-project/executor:v1.3.0-debug
       commands:
-        - executor --dockerfile=$PWD/Dockerfile --context=$PWD --destination=vfarcic/devops-toolkit:1.0.0
+        - executor --dockerfile=$PWD/Dockerfile --context=$PWD --destination=lakshmojirao999/devops-lab:1.0.0
       stage: release

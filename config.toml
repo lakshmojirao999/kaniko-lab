@@ -64,7 +64,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "Kubernetes Chaos Engineering"
-      subtitle = "Kubernetes Chaos Engineering With Chaos Toolkit And Istio"
+      subtitle = "Kubernetes Chaos Engineering With Chaos Lab And Istio"
       image = "chaos-small.jpg"
       url = "posts/chaos"
 
@@ -105,7 +105,7 @@ disqusShortname = ""
       url = "posts/devops-22"
 
     [[params.tiles.showcase]]
-      title = "The DevOps 2.1 Toolkit"
+      title = "The DevOps 2.1 Lab"
       subtitle = "Building, testing, deploying, and monitoring services inside Docker Swarm clusters"
       image = "devops21-small.png"
       url = "posts/devops-21"

@@ -1,5 +1,5 @@
 ---
-title: "The DevOps 2.0 Toolkit"
+title: "The DevOps 2.0 Lab"
 date: 2017-09-21T13:31:31+02:00
 draft: false
 ---
